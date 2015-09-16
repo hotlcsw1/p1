@@ -1,17 +1,23 @@
 # Project 1 - Dynamic Web Applications
 
-Author : Arcot Prakash
-Date Created: 9/15/2015
-Time Updated: 5:41 PM
+Author       : Arcot Prakash
+Date Created : 9/15/2015
+Date Updated : 9/16/2015
+Time Updated : 12:42 PM
 
-Description: This is a project to help me move files from my local git p1 directory to the github p1 
-directory.  In addition, we are hosting our p1 site on Digital Ocean.  The project is a simple html and 
-CSS file sharing our profile.
+Live URL:
+p1.approjects.me
 
-URL: p1.approjects.me
+Description:
+This is a project to help me move files from my local git p1 directory to the 
+github p1 directory.  In addition, we are hosting our p1 site on Digital Ocean.  The project is a simple html and 
+CSS file sharing our personal profile.
 
-Instructions for the Instructor: None I can think of
+Demo:
+Not application as per instruction for P1
 
-Plugins, libraries, package or outside: None
+Details for the teaching team:
+No login required
 
-Link to the Screencast Demo: N/A for p1
+Plugins, libraries, package or outside code:
+None
